@@ -1,0 +1,22 @@
+{
+    "name": "GameGUI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:84c12ccc9eb0c574dbf602b0f5c7e999",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:3951c91f996c0494f925e9016160dd37",
+        "GUID:b35c8989bb2e6c74c90951c081a1954c",
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:36b36fbda5b427f4bbf2bb9ef849b398",
+        "GUID:3d3fd127bcef04f489b11329d31c7e05"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
